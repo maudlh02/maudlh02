@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maudlh02.
-- 👀 I’m interested in languages such as HTML5, CSS3, JavaScript, TypeScript, but mostly in C# and Unity.
-- 🌱 I’m currently learning all these languages during my classes, and Unity and C# as an autodidact.
+- 👀 I’m interested in languages such as HTML5, CSS3, JavaScript, TypeScript.
+- 🌱 I’m currently learning all these languages during my classes.
 - 📫 You can reach me by email : maud.lherbier@gmail.com.
 -  📎 Here is the link to see my portfolio : https://maudlh02.github.io/portfolio.
 
